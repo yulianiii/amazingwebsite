@@ -28,7 +28,7 @@ try AmazingWebsite().publish(using: [
     .installPlugin(.splash(withClassPrefix: "")),
     .addMarkdownFiles(),
     .copyResources(),
-    .generateHTML(withTheme: .foundation),
+    .generateHTML(withTheme: .yulzFoundation),
     .generateRSSFeed(including: [.posts]),
     .generateSiteMap(),
     .deploy(using: .gitHub("yulianiii/amazingwebsite", useSSH: true))
