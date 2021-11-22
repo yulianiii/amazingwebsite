@@ -31,5 +31,5 @@ try AmazingWebsite().publish(using: [
     .generateHTML(withTheme: .yulzFoundation),
     .generateRSSFeed(including: [.posts]),
     .generateSiteMap(),
-    .deploy(using: .gitHub("create-with-swift/amazing-website"))
+    .deploy(using: .gitHub("yulianiii/amazingwebsite", useSSH: false))
 ])
