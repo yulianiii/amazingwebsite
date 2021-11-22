@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/AmazingWebsite.build/master.swiftdeps"
+  },
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/Sources/AmazingWebsite/SiteFoundation.swift": {
+    "dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/AmazingWebsite.build/SiteFoundation.d",
+    "object": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/AmazingWebsite.build/SiteFoundation.swift.o",
+    "swiftmodule": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/AmazingWebsite.build/SiteFoundation~partial.swiftmodule",
+    "swift-dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/AmazingWebsite.build/SiteFoundation.swiftdeps"
+  },
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/Sources/AmazingWebsite/main.swift": {
+    "dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/AmazingWebsite.build/main.d",
+    "object": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/AmazingWebsite.build/main.swift.o",
+    "swiftmodule": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/AmazingWebsite.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/AmazingWebsite.build/main.swiftdeps"
+  }
+}

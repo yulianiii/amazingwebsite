@@ -1,0 +1,41 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1637546718, 281942844]
+build_end_time: [1637546746, 16388893]
+inputs:
+  ? "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Extensions/CharacterSet/CharacterSet+Contains.swift"
+  : [1637546713, 586105823]
+  ? "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Extensions/Equatable/Equatable+AnyOf.swift"
+  : [1637546713, 586778402]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Extensions/Int/Int+IsOdd.swift": [1637546713, 587247133]
+  ? "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Extensions/Sequence/Sequence+AnyOf.swift"
+  : [1637546713, 587649583]
+  ? "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Extensions/Sequence/Sequence+Occurrences.swift"
+  : [1637546713, 587938785]
+  ? "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Extensions/Strings/String+HTMLEntities.swift"
+  : [1637546713, 588297367]
+  ? "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Extensions/Strings/String+IsNumber.swift"
+  : [1637546713, 588537693]
+  ? "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Extensions/Strings/String+PrefixChecking.swift"
+  : [1637546713, 588752746]
+  ? "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Extensions/Strings/String+Removing.swift"
+  : [1637546713, 588988542]
+  ? "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Extensions/Strings/Substring+HasSuffix.swift"
+  : [1637546713, 589215278]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Grammar/Grammar.swift": [1637546713, 589545965]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Grammar/SwiftGrammar.swift": [1637546713, 589892387]
+  ? "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Output/AttributedStringOutputFormat.swift"
+  : [1637546713, 590186119]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Output/HTMLOutputFormat.swift": [1637546713, 590366840]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Output/MarkdownDecorator.swift": [1637546713, 590646982]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Output/OutputBuilder.swift": [1637546713, 590845584]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Output/OutputFormat.swift": [1637546713, 591049194]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Syntax/SyntaxHighlighter.swift": [1637546713, 591300249]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Syntax/SyntaxRule.swift": [1637546713, 591499805]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Theming/Color.swift": [1637546713, 591689348]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Theming/Font.swift": [1637546713, 591871023]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Theming/Theme+Defaults.swift": [1637546713, 592123031]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Theming/Theme.swift": [1637546713, 592292308]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Tokenizing/Segment.swift": [1637546713, 592530727]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Tokenizing/TokenType.swift": [1637546713, 592678070]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/splash/Sources/Splash/Tokenizing/Tokenizer.swift": [1637546713, 592897891]

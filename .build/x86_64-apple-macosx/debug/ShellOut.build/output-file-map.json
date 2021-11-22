@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/ShellOut.build/master.swiftdeps"
+  },
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/shellout/Sources/ShellOut.swift": {
+    "dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/ShellOut.build/ShellOut.d",
+    "object": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/ShellOut.build/ShellOut.swift.o",
+    "swiftmodule": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/ShellOut.build/ShellOut~partial.swiftmodule",
+    "swift-dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/ShellOut.build/ShellOut.swiftdeps"
+  }
+}

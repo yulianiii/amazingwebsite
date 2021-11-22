@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/Sweep.build/master.swiftdeps"
+  },
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/sweep/Sources/Sweep/Sweep.swift": {
+    "dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep.d",
+    "object": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep.swift.o",
+    "swiftmodule": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep~partial.swiftmodule",
+    "swift-dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep.swiftdeps"
+  }
+}

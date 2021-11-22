@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1637546744, 287791967]
+build_end_time: [1637546747, 515327930]
+inputs:
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/files/Sources/Files.swift": [1637546713, 936576843]

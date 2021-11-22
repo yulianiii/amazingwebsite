@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
+build_start_time: [1637546718, 275084018]
+build_end_time: [1637546743, 698904991]
+inputs:
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/sweep/Sources/Sweep/Sweep.swift": [1637546711, 953390598]

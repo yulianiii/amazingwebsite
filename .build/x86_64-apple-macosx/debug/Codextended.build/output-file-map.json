@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/Codextended.build/master.swiftdeps"
+  },
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/checkouts/codextended/Sources/Codextended/Codextended.swift": {
+    "dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended.d",
+    "object": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended.swift.o",
+    "swiftmodule": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended~partial.swiftmodule",
+    "swift-dependencies": "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/Codextended.build/Codextended.swiftdeps"
+  }
+}

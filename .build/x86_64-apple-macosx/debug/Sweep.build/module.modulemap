@@ -1,0 +1,4 @@
+module Sweep {
+    header "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/.build/x86_64-apple-macosx/debug/Sweep.build/Sweep-Swift.h"
+    requires objc
+}
