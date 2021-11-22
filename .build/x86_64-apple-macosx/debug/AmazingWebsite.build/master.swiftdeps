@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
 options: "cc8d7cc55be3f0b45407c1d49f03ee17a224954b9bd1166cd075381672d6eedd"
-build_start_time: [1637550297, 638890981]
-build_end_time: [1637550299, 986119031]
+build_start_time: [1637550774, 113005161]
+build_end_time: [1637550775, 967370033]
 inputs:
   "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/Sources/AmazingWebsite/SiteFoundation.swift": [1637546618, 640976905]
-  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/Sources/AmazingWebsite/main.swift": [1637549779, 621004104]
+  "/Users/yulianinoriega/Documents/GitHub/amazingwebsite/Sources/AmazingWebsite/main.swift": [1637550653, 385366201]
